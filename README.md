@@ -26,12 +26,12 @@ As the pie charts suggested, Average Fares per Ride and Driver for Urban drivers
 
 Viewed as a bubble chart below, where circle size correlates with driver count per city, we readily see that many more Urban drivers are sharing a larger number of rides, but at lower fares than Rural drivers.
 <p align="center">
-<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig1.png" width="800" height="350" />
+<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig1.png" width="800" height="450" />
 </p>
 The three box-and-whisker charts below are used to more closely examine the statistical differences among city types. 
-
-<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig2.png" width="300" height="350" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig3.png" width="300" height="350" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig4.png" width="300" height="350" />
-
+<p align="center">
+<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig2.png" width="325" height="300" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig3.png" width="325" height="300" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig4.png" width="325" height="300" />
+</p>
      
 
 If we compare the average number of rides between each city type, we observe that the average number of rides in the Rural cities is about 3.5 and 2.5 times lower than Urban and Suburban cities, respectively. 
