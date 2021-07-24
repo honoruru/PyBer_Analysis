@@ -20,7 +20,7 @@ The pie charts below reflect the proportion of city types for Total Rides, Total
 </p>     
 Urban Rides and Fares comprise about two-thirds of their respective categories.  However, Urban drivers account for a larger proportion (80%) of total drivers.  This means that each Urban driver gets a thinner slice of their, albeit larger, ride and fare pies than their Suburban and Rural counterparts.  
 
- <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Average_fare_ride_driver.PNG" width="350" height="350" />
+ <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Average_fare_ride_driver.PNG" width="250" height="200" />
 
 As the pie charts suggested, Average Fares per Ride and Driver for Urban drivers are smaller than for Rural drivers. Suburban Average Fares fall in between. One might suspect that Rural drivers may choose the occupation for different reasons than Urban drivers.
 
