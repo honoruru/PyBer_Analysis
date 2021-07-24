@@ -35,12 +35,16 @@ The three box-and-whisker charts below are used to more closely examine the stat
      
 
 If we compare the average number of rides between each city type, we observe that the average number of rides in the Rural cities is about 3.5 and 2.5 times lower than Urban and Suburban cities, respectively. 
+
 The average fare for rides in the Rural cities is about $11 and $5 more per ride than the Urban and Suburban cities, respectively. 
+
 The average number of drivers in Rural cities is nine to four times less than in Urban and Suburban cities, respectively. 
+
 Considering that Rural areas have nine time less drivers, but only 3.5 less rides with about 1.4 times larger fares, it would appear that Rural drivers generate more revenue per driver than Urban drivers – perhaps as much as three times as much.
 
 ## Summary
 In Rural cities, there are less rides, but for greater distances when compared to Suburban, and more so Urban cities. This is likely because in Urban areas, the population significantly exceeds that of Suburban and Rural cities.  Furthermore, it is likely that Urban riders are less prone to drive their own cars into the city, wanting to avoid parking fees and well as the stress of inner city driving. The Urban rider would thus be more likely to ride share for the shorter inner-city distances. Conversely, in the Rural cities, destinations are less clustered, and one might think that parking is much less of an issue than in Urban cities.  
+
 While that data provides insight on the differences between Urban, Suburban and Rural revenue generation, more information would enhance our ability to improve access to ride sharing services and better determine rideshare affordability for underserved neighborhoods.
 
 We submit the following recommendations.
