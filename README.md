@@ -33,10 +33,6 @@ Viewed as a bubble chart below, where circle size correlates with driver count p
 </p>
 The three box-and-whisker charts below are used to more closely examine the statistical differences among city types. 
 
-
-<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="280" height="350" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="280" height="350" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="280" height="350" />
-
-
 <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig2.png" width="280" height="350" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig3.png" width="280" height="350" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig4.png" width="280" height="350" />
 
      
