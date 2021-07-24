@@ -33,7 +33,7 @@ Viewed as a bubble chart below, where circle size correlates with driver count p
 The three box-and-whisker charts below are used to more closely examine the statistical differences among city types. 
 
 <p align="center">
-<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig2.png" width="300" height="300" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig3.png" width="300" height="300" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig4.png" width="300" height="300" />
+<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig2.png" width="275" height="225" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig3.png" width="275" height="225" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig4.png" width="275" height="225" />
 </p>
 
 If we compare the average number of rides between each city type, we observe that the average number of rides in the Rural cities is about 3.5 and 2.5 times lower than Urban and Suburban cities, respectively. 
