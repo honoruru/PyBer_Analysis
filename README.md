@@ -15,9 +15,11 @@ The chart above illustrates that Urban Total Fares are greater than Suburban and
 \
 The pie charts below reflect the proportion of city types for Total Rides, Total Drivers, and Total Fares.
 
+
 <p align="center">
 <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig6.png" width="325" height="280" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig5.png" width="325" height="280" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="325" height="280" />
 </p>     
+
 Urban Rides and Fares comprise about two-thirds of their respective categories.  However, Urban drivers account for a larger proportion (80%) of total drivers.  This means that each Urban driver gets a thinner slice of their, albeit larger, ride and fare pies than their Suburban and Rural counterparts.  
 
  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Average_fare_ride_driver.PNG" width="350" height="270" />
@@ -29,10 +31,10 @@ Viewed as a bubble chart below, where circle size correlates with driver count p
 <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig1.png" width="800" height="450" />
 </p>
 The three box-and-whisker charts below are used to more closely examine the statistical differences among city types. 
+
 <p align="center">
 <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig2.png" width="325" height="300" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig3.png" width="325" height="300" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig4.png" width="325" height="300" />
 </p>
-     
 
 If we compare the average number of rides between each city type, we observe that the average number of rides in the Rural cities is about 3.5 and 2.5 times lower than Urban and Suburban cities, respectively. 
 
