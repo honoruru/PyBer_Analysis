@@ -28,9 +28,9 @@ Urban Rides and Fares comprise about two-thirds of their respective categories. 
 As the pie charts suggested, Average Fares per Ride and Driver for Urban drivers are smaller than for Rural drivers. Suburban Average Fares fall in between. One might suspect that Rural drivers may choose the occupation for different reasons than Urban drivers.
 
 Viewed as a bubble chart below, where circle size correlates with driver count per city, we readily see that many more Urban drivers are sharing a larger number of rides, but at lower fares than Rural drivers.
-
+<p align="center">
 <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig1.png" width="600" height="350" />
-
+</p>
 The three box-and-whisker charts below are used to more closely examine the statistical differences among city types. 
 
      
