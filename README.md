@@ -4,5 +4,4 @@
 
 
 
-<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="600" height="350" />
-<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="600" height="350" />
+<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="600" height="350" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="600" height="350" />
