@@ -15,9 +15,9 @@ Analyzing fares with respect to the number of drivers and rides in each city typ
 
 The pie charts below reflect the proportion of city types for Total Rides, Total Drivers, and Total Fares.
 
-
-<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig6.png" width="325" height="290" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig5.png" width="325" height="290" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="325" height="290" />
-     
+<p align="center">
+<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig6.png" width="325" height="280" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig5.png" width="325" height="280" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="325" height="280" />
+</p>     
 Urban Rides and Fares comprise about two-thirds of their respective categories.  However, Urban drivers account for a larger proportion (80%) of total drivers.  This means that each Urban driver gets a thinner slice of their, albeit larger, ride and fare pies than their Suburban and Rural counterparts.  
 
  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Average_fare_ride_driver.PNG" width="350" height="350" />
