@@ -3,6 +3,7 @@
 ## Project Overview
 
 The purpose of the project is to analyze ridesharing data accumulated at PyBer to determine whether actions can be taken to improve access to ride sharing services and better determine rideshare affordability for underserved neighborhoods.\
+\
 The Pyber data includes total rides, total drivers, total fares, average fare per ride and driver, and total fares.  The data is filterable by city type:  Urban, Suburban, and Rural.  As the data is proprietary, it is assumed to be accurate.  It is also assumed that fare rates are the same for all city types.
 
 ## Results
