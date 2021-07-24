@@ -10,7 +10,7 @@ The Pyber data includes total rides, total drivers, total fares, average fare pe
  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png" width="800" height="350" />
 </p>
 The chart above illustrates that Urban Total Fares are greater than Suburban and Rural throughout the period reviewed.  This is as expected and is not abundantly informative.  Analyzing fares with respect to the number of drivers and rides in each city type, we can determine the differences in ride sharing data among the different city types. 
-
+  
 The pie charts below reflect the proportion of city types for Total Rides, Total Drivers, and Total Fares.
 
 <p align="center">
