@@ -1,6 +1,3 @@
-
-<img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="300" height="350" />  <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Fig7.png" width="300" height="350" />
-
 # Pyber Analysis
 
 ## Project Overview
@@ -9,9 +6,9 @@ The purpose of the project is to analyze ridesharing data accumulated at PyBer t
 The Pyber data includes total rides, total drivers, total fares, average fare per ride and driver, and total fares.  The data is filterable by city type:  Urban, Suburban, and Rural.  As the data is proprietary, it is assumed to be accurate.  It is also assumed that fare rates are the same for all city types.
 
 ## Results
-
- 
-
+<p align="center">
+ <img src="https://github.com/honoruru/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png" width="600" height="350" />
+</p>
 The chart above illustrates that Urban Total Fares are greater than Suburban and Rural throughout the period reviewed.  This is as expected and is not abundantly informative.  
 
 Analyzing fares with respect to the number of drivers and rides in each city type, we can determine the differences in ride sharing data among the different city types. 
